@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.30",
-  "url": "https://github.com/wuyu3038-max/marine-dict-update/releases/download/v2026.08.30/marine-dictionary.apk",
-  "note": "新增「🧩 串记」区：从词库选词写英文句、翻转看中文、整句朗读背诵；「检查更新」按钮移入「更多」面板。"
+  "version": "2026.08.31",
+  "url": "https://github.com/wuyu3038-max/marine-dict-update/releases/download/v2026.08.31/marine-dictionary.apk",
+  "note": "v7：更新检查接入公网 CDN（jsDelivr），一键下载安装走 GitHub Release；「串记」区与检查更新修复均已包含。"
 }
